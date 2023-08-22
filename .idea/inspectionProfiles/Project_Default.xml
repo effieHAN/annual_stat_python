@@ -1,0 +1,93 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="3111" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+          <option value="E266" />
+          <option value="E501" />
+          <option value="E265" />
+          <option value="E262" />
+          <option value="E127" />
+          <option value="W605" />
+          <option value="W191" />
+          <option value="E101" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N803" />
+          <option value="N802" />
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="indtype" />
+          <option value="nptype" />
+          <option value="eqtype" />
+          <option value="assettype" />
+          <option value="mktcaptype" />
+          <option value="noncurliabtype" />
+          <option value="ptype" />
+          <option value="经营性现金流" />
+          <option value="factype" />
+          <option value="trendptype" />
+          <option value="sharpeptype" />
+          <option value="alphastytype" />
+          <option value="datetime.datetime.dt" />
+          <option value="tuple.spines" />
+          <option value="datetime.datetime.astype" />
+          <option value="matplotlib.cm.Dark2" />
+          <option value="facnameuse" />
+          <option value="str.upper" />
+          <option value="pythoncom.CoInitialize" />
+          <option value="pythoncom.CoUninitialize" />
+          <option value="tuple.correlation" />
+          <option value="list.get_loc" />
+          <option value="TSLPy3" />
+          <option value="str.*" />
+          <option value="Cython.Includes.numpy.ndarray.astype" />
+          <option value="object.*" />
+          <option value="pandas.io.pytables" />
+          <option value="list.*" />
+          <option value="营业总收入" />
+          <option value="index.code.wanjia.wjasset.code.构建指数成分股.stkpooluse" />
+          <option value="dataname" />
+          <option value="numpy.argsort" />
+          <option value="numpy.cumsum" />
+          <option value="roename" />
+          <option value="numpy.cumprod" />
+          <option value="numpy.sum" />
+          <option value="int.*" />
+          <option value="numpy.argmax" />
+          <option value="numpy.std" />
+          <option value="numpy.lib.stride_tricks" />
+          <option value="numpy.bool" />
+          <option value="numpy.size" />
+          <option value="numpy.repeat" />
+          <option value="numpy.linspace" />
+          <option value="numpy.var" />
+          <option value="pandas.io.excel._base.ExcelWriter.book" />
+          <option value="dividendtype" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

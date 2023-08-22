@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6494441c-bd0a-4694-921e-e14316b9ab00" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/written_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/snowball.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/Bcalknockoutinprob.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/Memory_snowball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/Memory_snowball_old.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/Multi_hook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/Rainbow_snowball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/Shark_fin_american.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/Shark_fin_european.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/Vcalknockoutinprob.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/parent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backtest/worst_of_snowball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/backtestdata/HSTECH20230817.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/backtestdata/zz1000_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/backtestdata/zz1000peplot.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/backtestdata/zz1000历史PEPB20230808.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/backtestdata/zz500PEPLOT.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/backtestdata/zz500_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/backtestdata/zz500历史PE_PB_20230808.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/code/backtesthstech.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/code/backtestzz1000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/code/backtestzz500.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/code/datetradinghk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/code/datetradingupdate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/bio_ko100_102.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/check_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/check_data_using_pelyr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/check_pe_pe_lyr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/main_rainbow_memory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/ppt_intro_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/shark_fin_3m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/shi_shark1000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/shi_shark500.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/shi_snowball2_kout1000_all_output-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/shi_snowball2_kout500_all_output-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1.02_res_zz1000_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1.02_res_zz500_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1.02_zz1000_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1.02_zz1000_stat_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1.02_zz500_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1.02_zz500_stat_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1_res_zz1000_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1_res_zz500_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1_zz1000_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1_zz1000_stat_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1_zz500_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/BIO/bio_1_zz500_stat_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_105_3_cul_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_105_3_detail_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_105_3_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_110_12_cul_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_110_12_detail_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_110_12_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_110_6_cul_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_110_6_detail_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz1000_110_6_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_105_3_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_105_3_detail_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_105_3_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_110_12_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_110_12_detail_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_110_12_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_110_6_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_110_6_detail_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod1/shark_american_zz500_110_6_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod2/shark_american_zz1000_110_12_cul_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod2/shark_american_zz1000_110_12_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod2/shark_american_zz1000_110_6_cul_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod2/shark_american_zz1000_110_6_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod2/shark_american_zz500_110_12_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod2/shark_american_zz500_110_12_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod2/shark_american_zz500_110_6_cul_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/SHARK/Groupbymethod2/shark_american_zz500_110_6_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/snowball/vanilla_zz1000_5step_75_100_24_3_detail_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/snowball/vanilla_zz1000_5step_75_100_24_3_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/snowball/vanilla_zz1000_nostep_75_100_24_3_detail_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/snowball/vanilla_zz1000_nostep_75_100_24_3_stat_20141017_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/snowball/vanilla_zz500_5step_75_100_24_3_detail_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/snowball/vanilla_zz500_5step_75_100_24_3_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/snowball/vanilla_zz500_nostep_75_100_24_3_detail_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_0731/snowball/vanilla_zz500_nostep_75_100_24_3_stat_20070115_20230731.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/pettm_pelyr分组对比.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.01_res_zz500_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.01_zz500_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.01_zz500_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.02_res_zz500_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.02_zz500_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.02_zz500_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.03_res_zz500_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.03_zz500_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.03_zz500_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.04_res_zz500_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.04_zz500_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.04_zz500_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.05_res_zz500_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.05_zz500_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1.05_zz500_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1_res_zz500_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1_zz500_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_ZZ500_20070115_20230707/bio_1_zz500_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.01_res_zz1000_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.01_zz1000_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.01_zz1000_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.02_res_zz1000_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.02_zz1000_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.02_zz1000_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.03_res_zz1000_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.03_zz1000_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.03_zz1000_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.04_res_zz1000_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.04_zz1000_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.04_zz1000_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.05_res_zz1000_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.05_zz1000_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1.05_zz1000_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1_res_zz1000_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1_zz1000_cul_stat_20070115_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_BY0707/result_BIO_中证1000_0707_FROM20141017/bio_1_zz1000_stat_20230707.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz1000_100_12_3_detail_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz1000_100_12_3_stat_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz1000_100_24_3_detail_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz1000_100_24_3_stat_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz500_100_12_3_detail_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz500_100_12_3_stat_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz500_100_12_3_stat_20180101_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz500_100_12_3_stat_20180630_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz500_100_24_3_detail_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/bio_zz500_100_24_3_stat_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/shark_american_zz1000_110_6_detail_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/shark_american_zz1000_110_6_stat_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/shark_american_zz500_110_6_detail_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/shark_american_zz500_110_6_stat_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/shark_european_zz1000_110_6_detail_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/shark_european_zz1000_110_6_stat_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/shark_european_zz500_110_6_detail_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/shark_european_zz500_110_6_stat_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz1000_5step_75_100_24_3_detail_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz1000_5step_75_100_24_3_stat_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz1000_nostep_75_100_24_3_detail_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz1000_nostep_75_100_24_3_stat_20141017_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz500_5step_75_100_24_3_detail_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz500_5step_75_100_24_3_stat_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz500_nostep_75_100_24_3_detail_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz500_nostep_75_100_24_3_stat_20070115_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz500_nostep_75_100_24_3_stat_20180101_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_by230630_in_ppt_intro/vanilla_zz500_nostep_75_100_24_3_stat_20180630_20230630.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilfun/pb_pe_utili.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilfun/utilfun.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UK0Rh4WbXEjsYrv8SrO7ERc4Vn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../STRUCTURE" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="written_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6494441c-bd0a-4694-921e-e14316b9ab00" name="Default Changelist" comment="" />
+      <created>1692672958256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692672958256</updated>
+      <workItem from="1692672959798" duration="5508000" />
+      <workItem from="1692681673371" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
